@@ -1,1 +1,1 @@
-# Activity-Recognition-System
+The Activity Recognition System is a deep learning-based application designed to identify and categorize human activities from image data. This system includes components for data preprocessing, feature extraction, model training, and activity prediction
